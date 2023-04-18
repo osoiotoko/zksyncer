@@ -1,4 +1,4 @@
-# greeter-front-end
+# zkSyncer suffled front-end
 
 ## Project setup
 ```
